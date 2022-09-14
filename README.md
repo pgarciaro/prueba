@@ -2,6 +2,6 @@
 
 ## apartado A
 
-## - si
+## ·si
 
 ## apartado B
