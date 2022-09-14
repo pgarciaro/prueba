@@ -1,7 +1,11 @@
 # prueba
 
 ## apartado A
+okeoke
+- Si
+- No
+- No se
 
-## ·si
 
 ## apartado B
+blabla
