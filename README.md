@@ -8,6 +8,7 @@ CODIGO:
     </head>
   </html>
 ```
+Ese es un codigo ``HTML``no un ``PHP``
 
 ## apartado B
 blabla
