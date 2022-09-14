@@ -9,4 +9,4 @@ okeoke
 
 ## apartado B
 blabla
-![wido](/assets/baixades/tux.png)
+![wido](/assets/baixades/wido.png)
