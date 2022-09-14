@@ -2,12 +2,12 @@
 
 ## apartado A
 CODIGO:
-'''
+```
   <html>
     <head>
     </head>
   </html>
-'''
+```
 
 ## apartado B
 blabla
